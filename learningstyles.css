@@ -20,7 +20,7 @@ html, body {
     background-color: #333;
     color: #fff;
     padding: 25px;
-    text-align: left;
+    text-align: justify;
     height: 100%;
     flex: 0 0 15%;
     max-width: 15%;
