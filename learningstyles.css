@@ -25,6 +25,7 @@ html, body {
     flex: 0 0 15%;
     max-width: 15%;
     box-sizing: border-box;
+    margin: 15px;
     order: 1;
 }
 
