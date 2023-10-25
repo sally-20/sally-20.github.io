@@ -30,7 +30,7 @@ html, body {
 }
 
 .sidebar-title {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .sidebar-item {
@@ -797,6 +797,7 @@ p[sentTime]:hover::after {
         font-size: 0;
     }
     .sidebar-left{
+        padding: 5px;
         order: 2;
     }
     .main-content{
